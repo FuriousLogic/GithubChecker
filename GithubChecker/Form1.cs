@@ -24,7 +24,7 @@ namespace GithubChecker
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Button2");
+            MessageBox.Show("Hello.  This is Button2");
         }
     }
 }
